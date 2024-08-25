@@ -1,0 +1,23 @@
+# ninja log v5
+198	417	1724094949756027925	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj	f84de1b6ca9bd635
+193	410	1724094949748027925	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj	794f31092526b61b
+192	376	1724094949708027924	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj	3d05cda5e42b96c2
+7	192	1724094949520027918	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj	8989430817f66ab9
+7	236	1724094949548027919	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj	a7c40e4892736787
+167	387	1724094949724027924	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj	282ba9f38e15e566
+236	306	1724094949644027922	CMakeFiles/UART.dir/Core/Src/sysmem.c.obj	4a61ccbbb99aa3c3
+0	75	1724147683844011767	CMakeFiles/UART.dir/Core/Src/main.c.obj	bfb8e9e47e60e5a5
+140	404	1724094949744027925	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj	d30b8dcf8a958a22
+6	140	1724094949480027917	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj	a3c61a5483dc2a15
+144	357	1724094949696027923	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj	fa121a1e071c9cff
+214	420	1724094949760027925	CMakeFiles/UART.dir/Core/Src/system_stm32f1xx.c.obj	ba0b607a71f0d98c
+306	395	1724094949736027924	CMakeFiles/UART.dir/Core/Src/syscalls.c.obj	3e7784f740b7b5cf
+125	320	1724094949660027922	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj	d9559388260ffe20
+6	144	1724094949484027917	CMakeFiles/UART.dir/Core/Src/stm32f1xx_it.c.obj	846fd9649647e985
+6	124	1724094949464027917	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj	688d750b4244de43
+6	167	1724094949504027918	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj	395f0e98b63a22a6
+6	198	1724094949536027919	CMakeFiles/UART.dir/Core/Src/stm32f1xx_hal_msp.c.obj	c728f4a67dd9d694
+75	114	1724147683880011768	UART.elf	65856039b502cbdb
+320	357	1724094949696027923	CMakeFiles/UART.dir/startup_stm32f103xb.s.obj	33ed0bd78702b45e
+6	334	1724094949672027923	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj	eb0780f06bc04e20
+7	193	1724094949528027919	CMakeFiles/UART.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj	6e5c4d463c0e62c2
